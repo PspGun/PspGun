@@ -2,7 +2,7 @@
 
 <img src="./image/okayu.gif" alt="logo" style="width:200px;"/>
 
-### AM NOOB PROGRAMMER 😥
+### AM A NOOB PROGRAMMER 😥
 
 [![Bluebox34 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluebox34&show_icons=true&theme=material-palenight&count_private=true)]()
 
