@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hi am BlueBox34 🗃️
+
+<img src="./image/okayu.gif" alt="logo" style="width:200px;"/>
+
+### AM NOOB PROGRAMMER 😥
+
+[![Bluebox34 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluebox34&show_icons=true&theme=material-palenight&count_private=true)]()
+
+# My Life in a Day!🎧
+
+![It My Life](https://spotify-recently-played-readme.vercel.app/api?user=9nrg1rn0you71xebktkn0uj6z)
+
+## ❤️
+
+<img src="./image/suisei.gif">
 
 <!--
 **BlueBox34/BlueBox34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
