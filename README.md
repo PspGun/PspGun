@@ -10,10 +10,6 @@
 
 ![It My Life](https://spotify-recently-played-readme.vercel.app/api?user=9nrg1rn0you71xebktkn0uj6z)
 
-## ❤️
-
-<img src="./image/suisei.gif">
-
 <!--
 **BlueBox34/BlueBox34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
