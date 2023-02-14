@@ -4,7 +4,7 @@
 
 ### AM A NOOB PROGRAMMER 😥
 
-[![Bluebox34 GitHub stats](https://github-readme-stats.vercel.app/api?username=PspGun&show_icons=true&theme=material-palenight&count_private=true)]()  ![Github Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=PspGun&hide=java,html,tex&&theme=material-palenight&langs_count=3)
+[![Bluebox34 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PspGun&layout=compact&theme=material-palenight&count_private=true)]()  ![Github Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=PspGun&hide=java,html,tex&&theme=material-palenight&langs_count=3)
 
 # My Life in a Day!🎧
 
