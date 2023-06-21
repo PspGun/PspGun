@@ -1,8 +1,6 @@
-# Hi am BlueBox34 🗃️
+# Hi am Gun 🗃️
 
-<img src="./image/okayu.gif" alt="logo" style="width:200px;"/>
-
-### AM A NOOB PROGRAMMER 😥
+<!-- 1<img src="./image/okayu.gif" alt="logo" style="width:200px;"/> -->
 
 [![Bluebox34 GitHub stats](https://github-readme-stats.vercel.app/api?username=PspGun&show_icons=true&theme=material-palenight&count_private=true)]()  ![Github Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=PspGun&layout=compact&theme=material-palenight&count_private=true)
 
