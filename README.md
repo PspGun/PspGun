@@ -1,4 +1,4 @@
-# Hi am Gun 🗃️
+# Hi am Gunn 🗃️
 
 <!-- 1<img src="./image/okayu.gif" alt="logo" style="width:200px;"/> -->
 
