@@ -4,7 +4,7 @@
 
 [![Bluebox34 GitHub stats](https://github-readme-stats.vercel.app/api?username=PspGun&show_icons=true&theme=material-palenight&count_private=true)]()  ![Github Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=PspGun&layout=compact&theme=material-palenight&count_private=true)
 
-# What My Music ToDay!🎧
+# What is Gunn listening to!?🎧
 
 ![It My Life](https://spotify-recently-played-readme.vercel.app/api?user=9nrg1rn0you71xebktkn0uj6z)
 
