@@ -4,8 +4,6 @@
 
 [![Bluebox34 GitHub stats](https://github-readme-stats.vercel.app/api?username=PspGun&show_icons=true&theme=material-palenight&count_private=true)]()  ![Github Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=PspGun&layout=compact&theme=material-palenight&count_private=true)
 
-# What is Gunn listening to!?🎧
-
 
 <!--
 **BlueBox34/BlueBox34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
